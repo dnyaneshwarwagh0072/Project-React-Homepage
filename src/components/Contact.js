@@ -5,7 +5,7 @@ const Contact = _ => {
             <a href="https://www.linkedin.com/in/dnyaneshwar-wagh-4166a1227/" target='_blank' rel="noreferrer">LinkedIn</a>
             <a href="https://github.com/" target='_blank' rel="noreferrer">Github</a>
             <a href="https://www.instagram.com/the_tiger.0072/" target='_blank' rel="noreferrer">Instagram</a>
-            <a href="https://www.facebook.com/profile.php?id=100029032247800" target='_blank' rel="noreferrer">Facebook</a>
+            
         </section>
     );
 }

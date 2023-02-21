@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Bio from './components/Bio';
 import Experience from './components/Experience';
 import Skills from './components/Skills';
